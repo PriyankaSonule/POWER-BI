@@ -1,6 +1,8 @@
 
 Axon Company SalesAxon Company Sales
+
 OBJECTIVE : To Implement a BI solution using Power BI And SQL that can help the company manage and analyze their sales data effectively.
+
  Use the MySQL database provided as a data source.
 Extract and clean the data: The next step is to extract the data from the identified sources and clean it to make it ready for analysis. This involve tasks such as removing duplicates, handling missing values, and ensuring data consistency.
 Load the data into a Power BI : The cleaned data can then be loaded into a centralized database.
